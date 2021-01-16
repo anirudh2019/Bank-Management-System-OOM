@@ -3,9 +3,9 @@ This is an Undergraduate JAVA Project demostrating Object Oriented Paradigm.
 
 	Project Contributors :
 
-	1. ANKUSH SONKER        (IIT2019072)
-	2. AJAY NIKHIL          (IIT2019075)
-	3. ANIRUDH SIMHACHALAM  (IIT2019068)
+	1. ANIRUDH SIMHACHALAM  (IIT2019068)
+	2. ANKUSH SONKER        (IIT2019072)
+	3. AJAY NIKHIL          (IIT2019075)
 	
 		---- B.Tech IT,IIITA (Batch 2019-2023)
 
