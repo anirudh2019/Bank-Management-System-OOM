@@ -10,7 +10,8 @@ This is an Undergraduate JAVA Project demostrating Object Oriented Paradigm.
 		---- B.Tech IT,IIITA (Batch 2019-2023)
 
 
-	Project Description
+Project Description:
+It allows user to create an account either of type saving or current account. It also allows to apply for a loan. Admins of the bank can login to their account and perform various activities like view customer info etc.
 
 JAVA CLASSES : 
 
